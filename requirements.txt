@@ -1,0 +1,10 @@
+vk_api
+lxml
+requests
+bs4
+wikipedia
+translate
+pyowm.owm
+covid.api
+
+
