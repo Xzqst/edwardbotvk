@@ -4,7 +4,7 @@ requests
 bs4
 wikipedia
 translate
-pyowm.owm
+pyowm
 covid.api
 
 
