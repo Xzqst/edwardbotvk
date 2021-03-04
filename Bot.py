@@ -22,7 +22,6 @@ from vk_api.keyboard import VkKeyboard, VkKeyboardColor #КЛАВИАТУРА
 
 from Data import commands, Fight
 from Games import Balance_script
-from GIF import Gif_script
 from Covid_19 import Covid
 from Video import Video_script
 
