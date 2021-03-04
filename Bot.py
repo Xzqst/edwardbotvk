@@ -67,7 +67,7 @@ def write_photo2(sender):
 def write_video2(sender, video, message):
 	vk_session.method('messages.send', {'chat_id': sender, 'message': "🔎Найдено видео по запросу: " + "\"" + message + "\"", 'attachment': video, 'random_id': get_random_id()})
 
-token="f4a8b4fc8fe0aa8e080fc21186f5606bd26e26f6429715472af9e201254862bf07c4cec92858e0d40558a"  #ТОКЕН ГРУППЫ
+token="dd082a1be007d134742a8382c172ffb9404196ae82196839a739471f631f0ffaed4e9c3ea4c6c5abe8231"  #ТОКЕН ГРУППЫ
 access_token = "914ae14206f01f8adaab0ea90b87b6199d09d8aac4ca4075e99e6aed7742ede4328ea6187ad5bb64011e4"
 vk_session = VkApi(token = token)
 vk_session2 = VkApi(token = access_token)
