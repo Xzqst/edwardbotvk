@@ -1,0 +1,2 @@
+class F:
+	print("Ок")

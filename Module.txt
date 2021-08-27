@@ -1,0 +1,6 @@
+vk_api
+googletrans ?
+wikipedia
+requests
+pyshorteners
+pyowm
