@@ -1,9 +1,0 @@
-vk_api
-lxml
-requests
-bs4
-wikipedia
-translate
-pyowm
-covid-data-api
-pyshorteners
