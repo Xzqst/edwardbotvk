@@ -1,5 +1,0 @@
-vk_api
-wikipedia
-requests
-pyshorteners
-pyowm
